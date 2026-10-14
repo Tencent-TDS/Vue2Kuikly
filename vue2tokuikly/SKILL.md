@@ -1,5 +1,5 @@
 ---
-name: migrate-vue-to-kuikly
+name: vue2tokuikly
 description: 按当前 KuiklyPolicy 项目规范，将 Vue/Vue2 页面、组件、样式、事件、网络请求、存储、路由参数、Module 调用和商业化页面一对一迁移为 Kuikly/Kotlin Multiplatform 代码。用于用户要求 Vue 迁移 Kuikly、分析迁移依赖层级、补齐或修复 Kuikly 页面/组件、处理 ReqConfig/API 常量、Module/原生能力桥接。
 ---
 
